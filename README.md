@@ -4,7 +4,7 @@
 
 
 ## <b> Overview </b> ##
-These questions were solve using the Parch & Posey database for my queries. Parch & Posey (not a real company) is a paper company and the database includes sales data for their papery. I have used their sales data, I was able to put my SQL skills to work with data I would find in the real world.
+These questions were solved using the Parch & Posey database for my queries. Parch & Posey (not a real company) is a paper company and the database includes sales data for their paper. I have used their sales data, I was able to put my SQL skills to work with data I would find in the real world.
 
 
 ## <b> Entity Relationship Diagrams </b> ##
